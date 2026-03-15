@@ -8,6 +8,8 @@ Inspired by a similar experiment built for iOS using Apple's `FoundationModels` 
 
 ## 📱 Demo
 
+<img src="on_device_screenshot.jpg" alt="Descriptive alt text" width="300">
+
 Ask it to schedule events, save notes, or just chat:
 
 | Prompt | What happens |
